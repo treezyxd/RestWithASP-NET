@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projetos\\RestWithASP-NET\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7118E393-D519-42A7-943C-A4859A188B21}|RestWithASPNET\\RestWithASPNET.csproj|d:\\projetos\\restwithasp-net\\restwithaspnet\\restwithaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118E393-D519-42A7-943C-A4859A188B21}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\projetos\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\projetos\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T04:39:27.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
